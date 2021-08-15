@@ -1,4 +1,4 @@
 # FiveCityWeb
 Strona FiveCity.net
 
-Pastedy: Smilez#7186
+Pasted: Smilez#7186
